@@ -4,6 +4,7 @@
     --yellow:#f9ca24;
 }
 
+
 *{
     font-family: 'Nunito', sans-serif;
     margin:0; padding:0;
@@ -57,6 +58,9 @@ section{
     border-radius: 5rem;
 }
 
+.hh{
+    color: aqua;
+}
 .btn i{
     padding:0 .5rem;
     font-size: 1.8rem;
@@ -344,7 +348,10 @@ header .navbar ul li a:hover{
     padding:1rem 0;
     font-weight: normal;
 }
-
+#priorities-content{
+    color: #f9ca24;
+    font-size: large;
+}
 .contact .row .content .info h3 i{
     text-align: center;
     padding-right: 1rem;
